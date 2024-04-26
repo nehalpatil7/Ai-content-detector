@@ -12,4 +12,4 @@
 5. Press ENTER with blank to stop the app
 6. Achieved Model shown below.
 
-![alt text](model.png)
+![Model Flowchart](model.png)
