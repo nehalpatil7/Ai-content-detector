@@ -13,6 +13,9 @@
 6. Achieved Model shown below.
 
 
+
+
+
 > Model: "Bi-directional_LSTM"
 > _________________________________________________________________
 >  Layer (type)                            Output Shape              Param #   
