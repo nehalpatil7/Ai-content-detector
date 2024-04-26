@@ -12,8 +12,8 @@
 5. Press ENTER with blank to stop the app
 6. Achieved Model shown below.
 
-> 
-> 
+> .
+> .
 > Model: "Bi-directional_LSTM"
 > _________________________________________________________________
 >  Layer (type)                            Output Shape              Param #   
